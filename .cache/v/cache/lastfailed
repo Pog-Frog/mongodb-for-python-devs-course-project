@@ -1,0 +1,5 @@
+{
+  "tests/test_facets.py::test_faceted_search_should_also_support_paging": true,
+  "tests/test_facets.py::test_faceted_search_should_return_rating_and_runtime_buckets": true,
+  "tests/test_paging.py::test_supports_paging_by_text": true
+}
